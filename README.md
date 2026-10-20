@@ -1,4 +1,1 @@
-"# hakaton-abobishy-"
-
-Итак это наш типо проект по визуальной новелле, мы тут делаем штуки на RenPy
-
+Renpy based visual novel
